@@ -12,6 +12,7 @@
       - git
       - curl
       - unzip
+      - golang
 
   tasks:
     - name: Install apt packages
