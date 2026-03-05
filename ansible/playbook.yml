@@ -23,6 +23,7 @@
       - libnss3
       - libcups2
       - fonts-noto-color-emoji
+      - pandoc
 
   tasks:
     - name: Install apt packages
