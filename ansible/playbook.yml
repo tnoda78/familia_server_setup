@@ -13,6 +13,16 @@
       - curl
       - unzip
       - golang
+      - libatk1.0-0
+      - libgbm1
+      - libx11-6
+      - libx11-xcb1
+      - libxext6
+      - libxrender1
+      - libxss1
+      - libnss3
+      - libcups2
+      - fonts-noto-color-emoji
 
   tasks:
     - name: Install apt packages
